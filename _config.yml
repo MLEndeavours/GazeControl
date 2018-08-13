@@ -1,2 +1,9 @@
 theme: jekyll-theme-architect
-show-downloads: true
+title: Gaze Control
+description: An easier way to control your PC
+github:
+  zip_url: https://github.com/MLEndeavours/GazeControl/archive/master.zip
+  tar_url: https://github.com/MLEndeavours/GazeControl/tarball/master
+  clone_url: https://github.com/MLEndeavours/GazeControl.git
+  owner_url: https://github.com/MLEndeavours
+show_downloads: true
